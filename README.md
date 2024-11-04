@@ -29,7 +29,7 @@ To get started with the project, clone the repository and install the necessary 
 
 ```bash
 git clone https://github.com/Harshith5314/Stock-Prediction.git
-cd stock-market-prediction-lstm
+cd Stock-Prediction
 pip install -r requirements.txt
 ```
 
