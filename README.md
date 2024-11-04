@@ -28,7 +28,7 @@ The goal of this project is to provide accurate predictions of stock prices base
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/stock-market-prediction-lstm.git
+git clone https://github.com/Harshith5314/Stock-Prediction.git
 cd stock-market-prediction-lstm
 pip install -r requirements.txt
 ```
